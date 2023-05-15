@@ -12,3 +12,12 @@ Client authenticating a server.
 
 Server authenticating a client.
 
+known hosts file will contain the servers that are allowed by the client. 
+
+authorized hosts file contain the list of clients that are trusted by client. 
+
+SSH server will send a challenge to the client for proof of posession. 
+
+
+
+
