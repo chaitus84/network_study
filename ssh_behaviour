@@ -1,0 +1,14 @@
+How SSH works: 
+
+https://goteleport.com/blog/ssh-handshake-explained/
+
+Protocol exchange
+
+Key exchange
+
+Deriving symmetric key
+
+Client authenticating a server. 
+
+Server authenticating a client.
+
